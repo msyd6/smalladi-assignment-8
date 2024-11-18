@@ -1,11 +1,5 @@
 # Assignment Analysis and Observations
 
-## Demo Video
-
-[Watch the demonstration video here](https://youtu.be/Ke_CO2eMqsE)
-
-Attached the video on my website too. 
-
 ## Patterns Observed in the Dataset
 
 1. **Cluster Shift Effects:**
@@ -49,3 +43,8 @@ Attached the video on my website too.
    - Clearer separation (higher shift) between clusters leads to a well-defined decision boundary with smaller loss, enabling a more accurate classification model.
    - For overlapping clusters, the model parameters adjust to maximize separation, resulting in higher loss and broader margins.
 
+## Demo Video
+
+[Watch the demonstration video here](https://youtu.be/Ke_CO2eMqsE)
+
+Attached the video on my website too. 
