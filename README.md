@@ -1,5 +1,4 @@
 # Assignment Analysis and Observations
-# Logistic Regression with Shifting Clusters
 
 ## Patterns Observed in the Dataset
 
