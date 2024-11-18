@@ -45,6 +45,6 @@
 
 ## Demo Video
 
-[Watch the demonstration video here](https://youtu.be/Ke_CO2eMqsE)
+[Watch the demonstration video here](https://youtu.be/Zu29S8j05V8)
 
 Attached the video on my website too. 
