@@ -36,7 +36,7 @@
 ## Key Observations
 
 1. **Relation Between Parameters:**
-   - Increasing $$beta_1\$$ and $$beta_2\$$ coefficients reflect stronger feature contributions to the decision boundary as the clusters shift apart.
+   - Increasing $$\beta_1\$$ and $$\beta_2\$$ coefficients reflect stronger feature contributions to the decision boundary as the clusters shift apart.
    - The margin width and logistic loss are inversely related to the shift distance; more separation reduces uncertainty and improves classification confidence.
 
 2. **Practical Implication:**
