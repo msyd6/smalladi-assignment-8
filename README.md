@@ -36,13 +36,10 @@
 ## Key Observations
 
 1. **Relation Between Parameters:**
-   - Increasing \(\beta_1\) and \(\beta_2\) coefficients reflect stronger feature contributions to the decision boundary as the clusters shift apart.
+   - Increasing $$beta_1\$$ and $$beta_2\$$ coefficients reflect stronger feature contributions to the decision boundary as the clusters shift apart.
    - The margin width and logistic loss are inversely related to the shift distance; more separation reduces uncertainty and improves classification confidence.
 
 2. **Practical Implication:**
    - Clearer separation (higher shift) between clusters leads to a well-defined decision boundary with smaller loss, enabling a more accurate classification model.
    - For overlapping clusters, the model parameters adjust to maximize separation, resulting in higher loss and broader margins.
 
----
-
-If you have additional questions or need further clarifications about specific graphs or results, feel free to ask!
