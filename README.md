@@ -18,7 +18,7 @@
 
 ## Parameter Relationships and Trends
 
-1. **Intercept (\(\beta_0\)) and Coefficients (\(\beta_1, \beta_2\)):**
+1. **Intercept $$(\(\beta_0\))$$ and Coefficients (\(\beta_1, \beta_2\)):**
    - The intercept (\(\beta_0\)) becomes more negative with increasing shift distance, reflecting a steeper decision boundary.
    - The coefficients (\(\beta_1, \beta_2\)) for \(x_1\) and \(x_2\) grow positively, indicating that the features are more strongly associated with class predictions as separation improves.
 
