@@ -1,5 +1,11 @@
 # Assignment Analysis and Observations
 
+## Demo Video
+
+[Watch the demonstration video here](https://youtu.be/Ke_CO2eMqsE)
+
+Attached the video on my website too. 
+
 ## Patterns Observed in the Dataset
 
 1. **Cluster Shift Effects:**
